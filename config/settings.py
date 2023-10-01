@@ -176,3 +176,5 @@ CELERY_BROKER_URL = "http://localhost:8000"
 CELERY_RESULT_BACKEND = False
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+
+
